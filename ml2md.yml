@@ -1,0 +1,6 @@
+ok_addrs:
+ - addr1@example.jp 
+ - addr2@example.jp
+ - addr3@example.jp
+out_path:
+ /var/www/somepath
